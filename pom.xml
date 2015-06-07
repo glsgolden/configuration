@@ -7,8 +7,7 @@
   <packaging>pom</packaging>
   <modules>
   	<module>configuration-parser</module>
-    <module>configuration-web</module>
-    <module>configuration-bean</module>
+  	<module>configuration-bean</module>
   </modules>
   
   <dependencies>
